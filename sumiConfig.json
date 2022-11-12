@@ -1,0 +1,20 @@
+{
+    "DeveloperMode": false,
+    "autoCreateDB": true,
+    "allowInbox": true,
+    "commandDisabled": [],
+    "eventDisabled": [],
+    "EMAIL": "",
+    "PASSWORD": "",
+    "OTPKEY": "",
+    "BOTNAME": "BOT BY NDK",
+    "PREFIX": "\\",
+    "ADMINBOT": [],
+    "FCAOption": {
+        "forceLogin": true,
+        "listenEvents": true,
+        "pauseLog": true,
+        "logLevel": "error",
+        "selfListen": true
+    }
+}
